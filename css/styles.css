@@ -22,3 +22,11 @@ header {
 main img {
   border-radius: 50%;
 }
+
+.demo {
+  width: 50%;
+  height: 400px;
+  border-radius: 0;
+  object-fit: cover;
+  object-position: center;
+}
