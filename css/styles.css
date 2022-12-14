@@ -30,3 +30,11 @@ main img {
   object-fit: cover;
   object-position: center;
 }
+
+.win {
+  list-style-type: square ;
+}
+
+.simple {
+  list-style-type: square ;
+}
