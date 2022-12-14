@@ -1,0 +1,24 @@
+h1 {
+  font-style: normal;
+  text-decoration: underline;
+  /* text-decoration: overline;
+  text-decoration: line-through; */
+
+}
+
+p {
+  /* text-transform: uppercase;
+  text-transform: lowercase; */
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  word-spacing: 5px;
+  text-indent: 30px;
+}
+
+header {
+  border-top: 5px solid black;
+}
+main img {
+  border-radius: 50%;
+}
